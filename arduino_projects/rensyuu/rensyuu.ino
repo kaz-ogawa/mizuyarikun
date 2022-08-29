@@ -2,6 +2,7 @@
 #define BLUELED 8
 #define GREENLED 9
 #define START_BTN 5
+#define INTERRUPT 0
 
 void setup() {
   // put your setup code here, to run once:
